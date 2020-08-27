@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="css/bootstrap.min.css" >   		
         <script src="js/jquery.min.js"></script>
         <script src="js/bootstrap.min.js" ></script>        
-	<title>Fixing Defect in sonar</title>   
+	<title>Employee Portal</title>   
     </head>
 
     <body bgcolor="dracula">          
